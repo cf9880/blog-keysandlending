@@ -1,0 +1,25 @@
+# To switch to the custom domain: change baseURL to "https://blog.keysandlending.com/" and add static/CNAME containing "blog.keysandlending.com"
+baseURL = "https://cf9880.github.io/blog-keysandlending/"
+languageCode = "en-us"
+title = "Team Up Home Blog"
+enableRobotsTXT = true
+[outputs]
+  home = ["HTML", "RSS"]
+[sitemap]
+  changefreq = "weekly"
+[params]
+  description = "Home buying tips for Pensacola, Gulf Breeze and Navarre buyers, plus realtor partnership insights from Angee Kent (LPT Realty) and Jay Spurlin (Coastal Funding Corporation)."
+  brand = "Team Up Home — Angee Kent + Jay Spurlin"
+  tagline = "Realtor + Mortgage, teamed up for a smooth, expedited home purchase"
+  phone = "(850) 725-6500"
+  nmls = "183681"
+  email = "info@cfcmtg.com"
+  mainsite = "https://www.keysandlending.com/"
+  maindomain = "www.keysandlending.com"
+  city = "Pensacola"
+  region = "FL"
+  street = ""
+  area = "Pensacola, Gulf Breeze & Navarre"
+  bg = "#0f172a"
+  accent = "#94a3b8"
+  accent2 = "#ffffff"
