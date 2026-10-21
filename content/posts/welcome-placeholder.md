@@ -1,13 +1,13 @@
 ---
-title: "Welcome to the Keys and Lending Blog (PLACEHOLDER)"
+title: "Welcome to the Keys and Lending Blog"
 date: 2026-10-18
-description: "Placeholder welcome post for the Keys and Lending blog. Replace with a real article."
-tags: ["placeholder"]
+description: "Welcome to the Keys and Lending blog: mortgage tips, loan program guides and local market insights for Pensacola, Gulf Breeze & Navarre."
+tags: ["welcome"]
+slug: "welcome"
+aliases: ["/posts/welcome-placeholder/"]
 author: "Keys and Lending — Angee Kent + Jay Spurlin"
 draft: false
 ---
-
-<div class="banner"><strong>PLACEHOLDER POST:</strong> this is a temporary welcome post. Replace or delete it when the first real article is published.</div>
 
 Welcome to the Keys and Lending blog. Here we'll share mortgage tips, loan program guides and local market insights for Pensacola, Gulf Breeze & Navarre.
 
