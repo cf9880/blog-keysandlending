@@ -1,4 +1,4 @@
-# Team Up Home Blog
+# Keys and Lending Blog
 
 Hugo blog for www.keysandlending.com. See PUBLISHING.md.
 

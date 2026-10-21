@@ -1,4 +1,4 @@
-# Publishing a post (Team Up Home blog)
+# Publishing a post (Keys and Lending blog)
 
 Live: https://cf9880.github.io/blog-keysandlending/ (future: https://blog.keysandlending.com/)
 
@@ -11,7 +11,7 @@ title: "FHA Loan Limits for 2027"
 date: 2026-10-20            # ISO date (or 2026-10-20T09:00:00-05:00); future dates are NOT published until then
 description: "One or two sentences, <=160 chars, used for meta/OG description."
 tags: ["fha", "pensacola"]
-author: "Team Up Home — Angee Kent + Jay Spurlin"
+author: "Keys and Lending — Angee Kent + Jay Spurlin"
 image: "/images/fha-2027.jpg"   # optional; put file in static/images/
 draft: false                # true = not published
 ---
