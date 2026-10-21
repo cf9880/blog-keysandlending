@@ -21,7 +21,7 @@ draft: false                # true = not published
 4. Commit to `main` (e.g. `gh api` contents PUT, or git push). GitHub Actions builds with Hugo and deploys in ~1 minute. Sitemap (`/sitemap.xml`), RSS (`/index.xml`) and schema update automatically.
 5. Delete `content/posts/welcome-placeholder.md` once the first real post is live.
 
-Compliance: keep NMLS 183681 references accurate; no rate guarantees.
+Compliance: every post carries company NMLS 103035 and Jay Spurlin NMLS 183681; no phone number on this site; no rate guarantees.
 
 ## Images (required on every post)
 Every post must have an `image`. It is shown automatically as the featured image at the top of the post, as the thumbnail on the home and list pages, as the social share image (og:image) and in the BlogPosting schema. **Do not** also put the same image inline in the body, or it will be shown only once, inline.
