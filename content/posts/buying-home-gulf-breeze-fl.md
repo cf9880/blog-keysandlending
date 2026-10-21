@@ -1,13 +1,13 @@
 ---
 title: "Buying a Home in Gulf Breeze, FL: 2026 Local Buyer's Guide"
 date: 2026-10-21T06:00:00-05:00
-lastmod: 2026-10-21T06:00:00-05:00
+lastmod: 2026-10-21T07:00:00-05:00
 description: "Buying a home in Gulf Breeze, FL? Sept. 2026 prices by ZIP, jumbo vs. conforming loans, insurance tips and local history from Angee Kent and Jay Spurlin."
 tags: ["buying a home in gulf breeze", "gulf breeze fl real estate", "jumbo loan florida", "santa rosa county", "naval live oaks"]
 author: "Keys and Lending — Angee Kent + Jay Spurlin"
 authors_ld:
   - name: "Angee Kent"
-    jobTitle: "Real Estate Agent"
+    jobTitle: "REALTOR®"
     worksFor: "LPT Realty"
   - name: "Jay Spurlin"
     jobTitle: "Mortgage Loan Originator, NMLS 183681"
@@ -30,7 +30,7 @@ draft: false
 
 **Buying a home in Gulf Breeze, FL means choosing between two very different price points.** In September 2026, the median sale price was about **$385,000** in ZIP 32563 (the Midway side) and **$772,500** in ZIP 32561 (Gulf Breeze proper and Pensacola Beach), based on Pensacola MLS data. Your ZIP code, loan type, and insurance plan matter as much as the house.
 
-We're **Angee Kent with LPT Realty** and **Jay Spurlin with Coastal Funding Corporation (NMLS 183681)**. We teamed up to make buying in the Pensacola area smoother: one side finds and negotiates the home, the other lines up the right financing, and we talk to each other the whole way.
+We're **Angee Kent, REALTOR®, LPT Realty** and **Jay Spurlin with Coastal Funding Corporation (NMLS 183681)**. We teamed up to make buying in the Pensacola area smoother: one side finds and negotiates the home, the other lines up the right financing, and we talk to each other the whole way.
 
 ## Key takeaways
 
@@ -115,8 +115,8 @@ Offers are stronger, deadlines are easier to hit, and surprises get handled fast
 
 Visit [www.keysandlending.com](https://www.keysandlending.com/) to start your search with Angee and get preapproved with Jay, all in one place.
 
-**About the authors:** Angee Kent is a real estate agent with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507.
+**About the authors:** Angee Kent is a REALTOR® with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507.
 
 *Sources: Beyond Pensacola (Pensacola MLS, September 2026, ZIPs 32563 and 32561); Redfin, September 2026; FHFA and HUD 2026 loan limits; Mortgage News Daily, Oct. 20, 2026; WUWF; National Park Service; City of Gulf Breeze. Market figures change and are not a guarantee of value.*
 
-*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*
+*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, REALTOR®, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*

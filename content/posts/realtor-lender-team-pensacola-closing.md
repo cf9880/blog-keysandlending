@@ -1,13 +1,13 @@
 ---
 title: "Realtor and Lender Team in Pensacola: How It Speeds Closing"
 date: 2026-10-21T06:30:00-05:00
-lastmod: 2026-10-21T06:30:00-05:00
+lastmod: 2026-10-21T07:30:00-05:00
 description: "How a realtor and lender team in Pensacola speeds up closing: preapproval, offer strategy, a 30-45 day timeline, and fall 2026 tips from Angee and Jay."
 tags: ["realtor and lender team pensacola", "pensacola home buying timeline", "preapproval", "closing process", "gulf breeze", "navarre"]
 author: "Keys and Lending — Angee Kent + Jay Spurlin"
 authors_ld:
   - name: "Angee Kent"
-    jobTitle: "Real Estate Agent"
+    jobTitle: "REALTOR®"
     worksFor: "LPT Realty"
   - name: "Jay Spurlin"
     jobTitle: "Mortgage Loan Originator, NMLS 183681"
@@ -30,7 +30,7 @@ draft: false
 
 **A realtor and lender team in Pensacola can shorten your path to closing by keeping offers, financing, and deadlines in sync.** Many financed purchases close in about **30 to 45 days** after the contract is signed. When your agent and loan officer share information from day one, fewer things slip, and sellers take your offer more seriously.
 
-We're **Angee Kent with LPT Realty** and **Jay Spurlin with Coastal Funding Corporation (NMLS 183681)**. Teaming up is the whole idea behind Keys and Lending. Here's what that looks like, step by step, for buyers in Pensacola, Gulf Breeze, and Navarre.
+We're **Angee Kent, REALTOR®, LPT Realty** and **Jay Spurlin with Coastal Funding Corporation (NMLS 183681)**. Teaming up is the whole idea behind Keys and Lending. Here's what that looks like, step by step, for buyers in Pensacola, Gulf Breeze, and Navarre.
 
 ## Key takeaways
 
@@ -42,7 +42,7 @@ We're **Angee Kent with LPT Realty** and **Jay Spurlin with Coastal Funding Corp
 
 ## What does a realtor and lender team actually do?
 
-**Real estate agent (Angee's side):**
+**REALTOR® (Angee's side):**
 
 - Finds homes that match your budget and must-haves
 - Pulls recent sales to help you price an offer
@@ -129,8 +129,8 @@ Often, yes. Less competition and more motivated sellers give buyers room to nego
 
 Visit [www.keysandlending.com](https://www.keysandlending.com/) to start your home search with Angee and your preapproval with Jay.
 
-**About the authors:** Angee Kent is a real estate agent with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507. LPT Realty and Coastal Funding Corporation are separate companies. You are never required to use either company's services.
+**About the authors:** Angee Kent is a REALTOR® with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507. LPT Realty and Coastal Funding Corporation are separate companies. You are never required to use either company's services.
 
 *Sources: Freddie Mac PMMS, Oct. 15, 2026; Pensacola Association of REALTORS® September 2026 report (via Emerald Coast Dispatch); Momentum Realty Market Pulse, September 2026; FHFA and HUD 2026 loan limits; NAS Pensacola Air Show; WEAR News, Oct. 20, 2026; University of West Florida. Timelines are typical estimates, not guarantees.*
 
-*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*
+*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, REALTOR®, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*

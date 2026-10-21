@@ -1,13 +1,13 @@
 ---
 title: "Navarre FL Homes: Buyer's Guide to Prices, Loans & Beaches"
 date: 2026-10-21T06:10:00-05:00
-lastmod: 2026-10-21T06:10:00-05:00
+lastmod: 2026-10-21T07:10:00-05:00
 description: "Navarre FL homes guide: September 2026 prices, 5.8 months of supply, second-home and DSCR loan options, plus the pier and sea turtle center locals love."
 tags: ["navarre fl homes", "navarre real estate", "second home loan", "dscr loan", "navarre beach", "santa rosa county"]
 author: "Keys and Lending — Angee Kent + Jay Spurlin"
 authors_ld:
   - name: "Angee Kent"
-    jobTitle: "Real Estate Agent"
+    jobTitle: "REALTOR®"
     worksFor: "LPT Realty"
   - name: "Jay Spurlin"
     jobTitle: "Mortgage Loan Originator, NMLS 183681"
@@ -30,7 +30,7 @@ draft: false
 
 **Navarre, FL homes sold for a median of about $421,000 in September 2026,** and with roughly **5.8 months of supply**, buyers have more room to negotiate than they've had in a while. Whether you want a full-time family home on the mainland, a beach getaway, or a vacation rental, Navarre offers options at prices often below nearby beach towns.
 
-We're **Angee Kent (LPT Realty)** and **Jay Spurlin (Coastal Funding Corporation, NMLS 183681)**. Here's our team's take on Navarre prices, loan choices, and the small-town beach life that keeps people coming back.
+We're **Angee Kent, REALTOR®, LPT Realty** and **Jay Spurlin (Coastal Funding Corporation, NMLS 183681)**. Here's our team's take on Navarre prices, loan choices, and the small-town beach life that keeps people coming back.
 
 ## Key takeaways
 
@@ -112,8 +112,8 @@ Many beach properties are. Mainland homes are typically fee simple. Confirm with
 
 Visit [www.keysandlending.com](https://www.keysandlending.com/) to search with Angee and compare loan options with Jay, all as one team. Want to know how that teamwork works? Read [how a realtor and lender team speeds up closing](../realtor-lender-team-pensacola-closing/).
 
-**About the authors:** Angee Kent is a real estate agent with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507.
+**About the authors:** Angee Kent is a REALTOR® with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507.
 
 *Sources: Beyond Pensacola (Pensacola MLS, September 2026, ZIP 32566); Redfin, September 2026; Realtor.com, October 2026; HUD 2026 FHA limits; U.S. Department of the Interior testimony on S. 770; WUWF, October 2026; Navarre Beach Fishing Pier; Navarre Beach Sea Turtle Conservation Center. Hours and fees may change.*
 
-*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*
+*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, REALTOR®, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*

@@ -1,13 +1,13 @@
 ---
 title: "Pensacola Beach Leasehold Homes: What Buyers Need to Know"
 date: 2026-10-21T06:20:00-05:00
-lastmod: 2026-10-21T06:20:00-05:00
+lastmod: 2026-10-21T07:20:00-05:00
 description: "Pensacola Beach leasehold explained: who owns the land, lease fees and taxes, how financing works, and what buyers should check after Hurricane Isaias."
 tags: ["pensacola beach leasehold", "pensacola beach homes", "santa rosa island authority", "leasehold mortgage", "beach condo financing"]
 author: "Keys and Lending — Angee Kent + Jay Spurlin"
 authors_ld:
   - name: "Angee Kent"
-    jobTitle: "Real Estate Agent"
+    jobTitle: "REALTOR®"
     worksFor: "LPT Realty"
   - name: "Jay Spurlin"
     jobTitle: "Mortgage Loan Originator, NMLS 183681"
@@ -30,7 +30,7 @@ draft: false
 
 **When you buy a home on Pensacola Beach, you buy a leasehold, not the land.** The land belongs to **Escambia County** and is leased through the **Santa Rosa Island Authority (SRIA)**, usually in terms of up to 99 years. You own the home or condo and the remaining lease term, and you can usually finance, sell, and pass it on much like any other home.
 
-We're **Angee Kent (LPT Realty)** and **Jay Spurlin (Coastal Funding Corporation, NMLS 183681)**. Leaseholds confuse a lot of buyers, so here's our plain-English guide from both the real estate side and the mortgage side.
+We're **Angee Kent, REALTOR®, LPT Realty** and **Jay Spurlin (Coastal Funding Corporation, NMLS 183681)**. Leaseholds confuse a lot of buyers, so here's our plain-English guide from both the real estate side and the mortgage side.
 
 ## Key takeaways
 
@@ -114,8 +114,8 @@ The county estimated about $11.5 million in residential damage. The beach is ope
 
 Visit [www.keysandlending.com](https://www.keysandlending.com/). Angee will help you evaluate the lease and the property, and Jay will confirm financing before you commit. See [how our team keeps closings on track](../realtor-lender-team-pensacola-closing/).
 
-**About the authors:** Angee Kent is a real estate agent with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507.
+**About the authors:** Angee Kent is a REALTOR® with LPT Realty serving Pensacola, Gulf Breeze, and Navarre. Jay Spurlin (NMLS 183681) is a mortgage loan originator with Coastal Funding Corporation (NMLS 103035), a mortgage broker at 534 S. Navy Blvd., Pensacola, FL 32507.
 
 *Sources: Santa Rosa Island Authority; Fannie Mae Selling Guide B2-3-03; Pensacola News Journal (Aug. 23, 2018); Island Times; WEAR News (Oct. 20, 2026); Beyond Pensacola (Pensacola MLS, September 2026); FHFA 2026 loan limits; U.S. Department of the Interior; National Park Service. This is general information, not legal or tax advice. Consult a real estate attorney or title professional about any specific lease.*
 
-*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*
+*Coastal Funding Corporation · NMLS 103035 · Jay Spurlin NMLS 183681 · Equal Housing Opportunity · This is not a commitment to lend. Real estate services provided by Angee Kent, REALTOR®, LPT Realty. Rates, programs, and terms are subject to change and borrower qualification.*
