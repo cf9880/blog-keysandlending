@@ -8,6 +8,7 @@ enableRobotsTXT = true
 [sitemap]
   changefreq = "weekly"
 [params]
+logo = "images/logo.png"
   description = "Home buying tips for Pensacola, Gulf Breeze and Navarre buyers, plus realtor partnership insights from Angee Kent, REALTOR® (LPT Realty), and Jay Spurlin (Coastal Funding Corporation)."
   brand = "Keys and Lending — Angee Kent + Jay Spurlin"
   tagline = "Realtor + Mortgage, teamed up for a smooth, expedited home purchase"
