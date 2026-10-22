@@ -1,5 +1,5 @@
-# To switch to the custom domain: change baseURL to "https://blog.keysandlending.com/" and add static/CNAME containing "blog.keysandlending.com"
-baseURL = "https://cf9880.github.io/blog-keysandlending/"
+# Custom domain: blog.keysandlending.com (static/CNAME)
+baseURL = "https://blog.keysandlending.com/"
 languageCode = "en-us"
 title = "Keys and Lending Blog"
 enableRobotsTXT = true
