@@ -8,7 +8,7 @@ members:
 description: "Keys and Lending is a collaboration between Angee Kent, REALTOR®, LPT Realty, and Jay Spurlin (NMLS 183681) with Coastal Funding Corporation."
 ---
 
-Keys and Lending is a collaboration between [Angee Kent](/authors/angee-kent/), REALTOR®, LPT Realty, and [Jay Spurlin](/authors/jay-spurlin/) with Coastal Funding Corporation. Together they help home buyers in Pensacola, Gulf Breeze and Navarre.
+Keys and Lending is a collaboration between [Angee Kent](/authors/angee-kent/), REALTOR®, LPT Realty, and [Jay Spurlin](/authors/jay-spurlin/) with Coastal Funding Corporation. Together they help Emerald Coast home buyers in Escambia, Santa Rosa and Okaloosa counties, including Pensacola, Gulf Breeze, Navarre, Fort Walton Beach, Destin and the Eglin AFB and Hurlburt Field communities.
 
 - **Jay Spurlin:** NMLS 183681
 

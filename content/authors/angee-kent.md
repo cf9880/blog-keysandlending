@@ -7,7 +7,7 @@ worksFor: "LPT Realty"
 description: "Angee Kent is a REALTOR® with LPT Realty and part of Keys and Lending with Jay Spurlin."
 ---
 
-Angee Kent is a REALTOR® with LPT Realty. She is one half of [Keys and Lending](/authors/keys-and-lending/), a collaboration with mortgage loan originator [Jay Spurlin](/authors/jay-spurlin/) of Coastal Funding Corporation, helping home buyers in Pensacola, Gulf Breeze and Navarre.
+Angee Kent is a REALTOR® with LPT Realty. She is one half of [Keys and Lending](/authors/keys-and-lending/), a collaboration with mortgage loan originator [Jay Spurlin](/authors/jay-spurlin/) of Coastal Funding Corporation, helping Emerald Coast home buyers in Escambia, Santa Rosa and Okaloosa counties, including Pensacola, Gulf Breeze, Navarre, Fort Walton Beach, Destin and the Eglin AFB and Hurlburt Field communities.
 
 ## Contact
 

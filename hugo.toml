@@ -9,7 +9,7 @@ enableRobotsTXT = true
   changefreq = "weekly"
 [params]
 logo = "images/logo.png"
-  description = "Home buying tips for Pensacola, Gulf Breeze and Navarre buyers, plus realtor partnership insights from Angee Kent, REALTOR® (LPT Realty), and Jay Spurlin (Coastal Funding Corporation)."
+  description = "Home buying tips for Emerald Coast buyers from Pensacola to Okaloosa County, plus realtor partnership insights from Angee Kent, REALTOR® (LPT Realty), and Jay Spurlin (Coastal Funding Corporation)."
   brand = "Keys and Lending — Angee Kent + Jay Spurlin"
   tagline = "Realtor + Mortgage, teamed up for a smooth, expedited home purchase"
   phone = ""  # Keys and Lending: no phone number by request
@@ -23,7 +23,7 @@ logo = "images/logo.png"
   region = "FL"
   street = "534 S Navy Blvd"
   zip = "32507"
-  area = "Pensacola, Gulf Breeze & Navarre"
+  area = "Emerald Coast, FL"
   bg = "#0f172a"
   accent = "#94a3b8"
   accent2 = "#ffffff"
